@@ -1,0 +1,26 @@
+body{
+    background-color: bisque;
+    text-align: center;
+    overflow: hidden;
+    margin: 0px;
+    height: 100vh;
+}
+
+h1{
+    font-family: 'Indie Flower',cursive;
+    font-size: 50px;
+    font-weight: bold;
+    color: #ff6b81;
+}
+button{
+    font-family: 'Indie Flower',cursive;
+    margin-top: 10px;
+    width: 60px;
+    height: 60px;
+    max-width: 100vw;
+    max-height: 80vh;
+    border-style: none;
+    border-radius: 5px;
+    background-color: #ff6b81;
+    color: white;
+}
